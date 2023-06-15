@@ -1,0 +1,28 @@
+.containerOne{
+    margin-top: 30px;
+    height: 680px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.containerTwo{
+    display: flex;
+    flex-direction: row;
+    width: 926px;
+    height: 190px;
+    justify-content: space-between;
+    align-items: center;
+}
+h1{
+    font-family: 'Gilroy-Bold';
+    font-size: 47px;
+    line-height: 59px;
+    color: black;
+}
+img{
+    width: 943.61px;
+    height: 600px;
+    background-size: cover;
+}
